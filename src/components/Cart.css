@@ -1,0 +1,15 @@
+#cart-icon i {
+    font-size: 2em;
+    color: black;
+}
+
+#cart-icon span {
+    position: absolute;
+    top: 0.8em;
+    right: 0.5em;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 30vw;
+}

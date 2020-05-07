@@ -1,0 +1,119 @@
+[
+    {
+        "id": 1,
+        "type": "centralUnit",
+        "name": "Axeos R524",
+        "price": 600,
+        "image": "/assets/images/pc1.jpg",
+        "description": "The best you can afford with a medium purchase capacity.",
+        "technology": {
+            "CPU": "Intel Core i5-7220HK",
+            "GPU": "Nvidia GeForce GTX 1050Ti 4Go",
+            "Storage": 1000,
+            "RAM": 16
+        },
+        "rating": 4
+    },
+    {
+        "id": 2,
+        "type": "centralUnit",
+        "name": "ESpirit X2",
+        "price": 890,
+        "image": "/assets/images/pc2.jpg",
+        "description": "The ultimate pc gamer with a price less than 1000$ !",
+        "technology": {
+            "CPU": "Intel Core i7-5400HK",
+            "GPU": "Nvidia GeForce GTX 1060 6Go",
+            "Storage": 1000,
+            "RAM": 16
+        },
+        "rating": 3
+    },
+    {
+        "id": 3,
+        "type": "centralUnit",
+        "name": "ESpirit X1",
+        "price": 410,
+        "image": "/assets/images/pc3.jpg",
+        "description": "It's the best pc gamer you can purchase with a little price.",
+        "technology": {
+            "CPU": "Intel Core i5-5820HK",
+            "GPU": "AMD RX 570 4Go",
+            "Storage": 1000,
+            "RAM": 16
+        },
+        "rating": 4
+    },
+    {
+        "id": 4,
+        "type": "centralUnit",
+        "name": "Alienware 17R4",
+        "price": 1880,
+        "image": "/assets/images/pc4.jpg",
+        "description": "The Dell Alienware 17 R4 embodies the most high-end machine in the alien-head family of PCs.",
+        "technology": {
+            "CPU": "Intel Core i7-7820HK",
+            "GPU": "Nvidia GeForce GTX 1080 8Go",
+            "Storage": 1000,
+            "RAM": 16
+        },
+        "rating": 5
+    },
+    {
+        "id": 5,
+        "type": "centralUnit",
+        "name": "HP Omen G15",
+        "price": 2300,
+        "image": "/assets/images/pc5.jpg",
+        "description": "the HP Omen 15 is a superb gaming machine. It's consistently fast, ergonomically sound and has a robust, smart exterior design along with a stunning screen – and it's cheaper than its key rival.",
+        "technology": {
+            "CPU": "Intel Core i7-7810HK",
+            "GPU": "Nvidia GeForce RTX 2070 12Go",
+            "Storage": 1000,
+            "RAM": 16
+        },
+        "rating": 5
+    },
+    {
+        "id": 6,
+        "type": "screen",
+        "name": "Samsung CHG90",
+        "price": 210,
+        "image": "/assets/images/pc6.jpg",
+        "description": "The curved super ultrawide 32:9 aspect ratio Samsung CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) boasts a massive amount of real estate",
+        "technology": {
+            "Size": 29,
+            "RefreshRate": 120,
+            "Type": "Curved"
+        },
+        "rating": 4
+    },
+    {
+        "id": 7,
+        "type": "screen",
+        "name": "MSI Optics G27C",
+        "price": 335,
+        "image": "/assets/images/pc7.jpg",
+        "description": "The all new MSI Optix G27C features an 1800r curved VA panel with 1080p FHD resolution, Quantum Dot tech, and 4ms response time. the maker of the CFG70 curved monitor we reviewed earlier. From the specifications alone, we can safely say that these two models share the same panel, although MSI might have used a different scalar",
+        "technology": {
+            "Size": 27,
+            "RefreshRate": 144,
+            "Type": "Curved"
+        },
+        "rating": 5
+    },
+    {
+        "id": 8,
+        "type": "screen",
+        "name": "HP EliteDisplay E230t",
+        "price": 100,
+        "image": "/assets/images/pc8.jpg",
+        "description": "Give your productivity a hand with the ultrathin HP Elite E230t Monitor, a 23-inch diagonal Full HD IPS touch display that’s Windows 10 certified",
+        "technology": {
+            "Size": 23,
+            "RefreshRate": 90,
+            "Type": "LCD"
+        },
+        "rating": 3
+    }
+]
